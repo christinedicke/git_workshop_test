@@ -1,6 +1,6 @@
 #Git Workshop Assignment
 
-KEY THINGS TO KNOW:
+--KEY THINGS TO KNOW:
 - To check out a new branch: `git checkout -b <branch-name>`
 - To switch between branches: `git checkout <branch-name>`
 
